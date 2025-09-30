@@ -1,2 +1,4 @@
 テストファイル
 テキスト追加
+git add
+git commit
